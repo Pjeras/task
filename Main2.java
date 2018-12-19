@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-//Program which check the folder and its subfolders for the files with the same content and lists them if any
+//Program which checks the folder and its subfolders for the files with the same content and lists them if any
 
 public class Main2 {
 
